@@ -1,0 +1,14 @@
+/* styles.css (ou o nome que você preferir) */
+
+/* Estilo para o rodapé */
+footer {
+    background-color: black;        /* Cor de fundo preta */
+    color: white;                   /* Cor do texto branco */
+    text-align: center;               /* Centraliza o texto horizontalmente */
+    padding: 7px;                     /* Espaçamento interno */
+    font-size: 8px;                   /* Tamanho da fonte pequeno */
+    position: fixed;                  /* Fixa o rodapé no final da janela do navegador */
+    bottom: 0;                        /* Alinha o rodapé na parte inferior */
+    width: 100%;                      /* Largura total */
+  }
+  
