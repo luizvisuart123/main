@@ -1,7 +1,7 @@
 // src/components/Content.js
 import React from 'react';
 
-const Content = () => {
+const Home = () => {
     return (
         <main>
             {/* Conteúdo central */}
@@ -41,5 +41,5 @@ const Content = () => {
     );
 };
 
-export default Content;
+export default Home;
 
